@@ -1,6 +1,6 @@
 class Post 
   
-  attr_accessor
+  attr_accessor :title, :author
   
   @@all = []
   
@@ -18,4 +18,8 @@ class Post
     @@all 
   end 
   
-end 
+  def 
+  
+end
+
+
